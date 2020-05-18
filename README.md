@@ -5,10 +5,10 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. 
 
 ## Analysis
-* In this project data for 4,000 projects were analyzed to uncover trends and address the following questions:
+* In this project data for 4,000 projects was analyzed to uncover trends and address the following questions:
 
-1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+1. What are three conclusions we can draw about Kickstarter campaigns?
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
 
-In addition, a summary statistics table was created to further analyze the successful and unsuccessful campaigns.
+In addition, a summary statistics table was added to further analyze the successful and unsuccessful campaigns.
