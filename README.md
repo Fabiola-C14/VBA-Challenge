@@ -11,4 +11,4 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
 
-*In addition, a summary statistics table was added to further analyze the successful and unsuccessful campaigns.
+* In addition, a summary statistics table was added to further analyze the successful and unsuccessful campaigns.
