@@ -1,14 +1,15 @@
-# VBA-Challenge
+# The VBA of Wall Street
 
 ## Background
-Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
-Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. 
+VBA scripting to analyze real stock market data. 
 
 ## Analysis
-* In this project data for 4,000 projects was analyzed to uncover trends and address the following questions:
+A script was created to loop through all the stocks for one year to create a summary with the following information:
+*	The ticker symbol.
+*	Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
+*	The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
+*	The total stock volume of the stock.
+*	The greatest percent increase
+*	The greatest percent decrease
+*	The greatest total volume
 
-  1. What are three conclusions we can draw about Kickstarter campaigns?
-  2. What are some limitations of this dataset?
-  3. What are some other possible tables and/or graphs that we could create?
-
-* In addition, a summary statistics table was added to further analyze the successful and unsuccessful campaigns.
