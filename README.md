@@ -4,7 +4,7 @@
 VBA scripting to analyze real stock market data. 
 
 ## Analysis
-A script was created to loop through all the stocks for one year to create a summary with the following information:
+In this challenge a script was created to loop through all the stocks for one year to create a summary with the following information:
 *	The ticker symbol.
 *	Yearly change from opening price at the beginning of a given year to the closing price at the end of that year.
 *	The percent change from opening price at the beginning of a given year to the closing price at the end of that year.
