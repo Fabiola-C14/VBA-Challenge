@@ -7,8 +7,8 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 ## Analysis
 * In this project data for 4,000 projects was analyzed to uncover trends and address the following questions:
 
-1. What are three conclusions we can draw about Kickstarter campaigns?
-2. What are some limitations of this dataset?
-3. What are some other possible tables and/or graphs that we could create?
+  1. What are three conclusions we can draw about Kickstarter campaigns?
+  2. What are some limitations of this dataset?
+  3. What are some other possible tables and/or graphs that we could create?
 
 * In addition, a summary statistics table was added to further analyze the successful and unsuccessful campaigns.
