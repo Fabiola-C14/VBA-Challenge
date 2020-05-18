@@ -1,3 +1,8 @@
-VBA- Challenge
-A VBA script was created to analyze the historical changes of various stocks.
+#VBA-Challenge
 
+##Background
+Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
+Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. 
+
+##Analysis
+*In this project data for 4,000 projecsts were analyzed to uncover trends.
