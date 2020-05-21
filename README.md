@@ -15,3 +15,6 @@ In this challenge a script was created to loop through all the stocks for one ye
 
 ## Stock Data 2015
 ![](VBAStocks/Multiple_year_stock_data_2015.PNG)
+
+## Stock Data 2016
+![](VBAStocks/Multiple_Year_stock_data_2016.PNG)
