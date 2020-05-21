@@ -1,8 +1,5 @@
 # The VBA of Wall Street
 
-## Background
-VBA scripting to analyze stock market data. 
-
 ## Analysis
 In this challenge a script was created to loop through all the stocks for one year to create a summary with the following information:
 *	The ticker symbol.
